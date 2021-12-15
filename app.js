@@ -6,6 +6,7 @@ const printProfileData = profileDataArr => {
     console.log(profileDataArr[i]);
   }
 
+
   console.log('================');
 
   // Is the same as this...
